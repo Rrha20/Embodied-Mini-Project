@@ -5,6 +5,7 @@ from inference_sdk import InferenceHTTPClient
 import cv2
 import time
 
+# Install Pygame and Inference_sdk before running
 # Press run and make sure you have a webcame
 # It is a bit slow, I'm sorry!
 
